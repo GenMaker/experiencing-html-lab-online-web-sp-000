@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 //my list items
 "Star Trek"
 "Star Trek TNG"
